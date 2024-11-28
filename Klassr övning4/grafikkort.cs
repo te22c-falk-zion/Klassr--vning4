@@ -18,6 +18,6 @@ public class grafikkort(string n, int v) : Hardware(n,v)
             genString = Console.ReadLine();
         }
         int.TryParse(genString, out gen);
-        Console.WriteLine($"Your processor gen is {gen}");
+        Console.WriteLine($"Your graphics gen is {gen}");
     }
 }

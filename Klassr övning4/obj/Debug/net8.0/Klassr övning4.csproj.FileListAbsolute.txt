@@ -12,3 +12,4 @@ c:\Users\zion.falk\Programming2\Klassr övning4\Klassr övning4\obj\Debug\net8.0
 c:\Users\zion.falk\Programming2\Klassr övning4\Klassr övning4\obj\Debug\net8.0\Klassr övning4.pdb
 c:\Users\zion.falk\Programming2\Klassr övning4\Klassr övning4\obj\Debug\net8.0\Klassr övning4.genruntimeconfig.cache
 c:\Users\zion.falk\Programming2\Klassr övning4\Klassr övning4\obj\Debug\net8.0\ref\Klassr övning4.dll
+c:\Users\zion.falk\Programming2\Klassr övning4\Klassr övning4\obj\Debug\net8.0\Klassr övning4.sourcelink.json
